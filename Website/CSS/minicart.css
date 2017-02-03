@@ -1,0 +1,59 @@
+form
+{
+	width:100%;
+	height:auto;
+}
+
+h1
+{
+	font-size:150%;
+	color:#007aa5;
+	padding-top:25px;
+	padding-left:30px;
+	margin:0px;
+}
+
+.shoppingList ul 
+{
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:25px;
+	padding-right:25px;
+	margin:0px;
+
+}
+
+form ul
+{
+	margin:0px;
+	padding:0 25px;
+	height:100%;
+}
+
+.shoppingList li
+{
+	text-decoration:none;
+	display:block;
+	height:auto;
+	min-height:450px;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:0px;
+	
+}
+
+.buttons
+{
+	padding:5px;
+	margin-top:25px;
+	margin-bottom:25px;
+	margin-left:auto;
+	margin-right:25px;
+	float:right;
+}
+
+#contents 
+{
+	height:450px;
+	width:100%;
+}

@@ -1,0 +1,113 @@
+form
+	{
+		width:100%;
+	}
+
+#Login
+	{
+		height:auto;
+		width:70%;
+		border:2px groove #000;
+		border-radius:15px;
+		box-shadow: 0px 0px 25px 5px #000;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:18%;
+		padding-top:50px;
+		padding-left:50px;
+		padding-right:50px; 
+	}
+
+#Login ul
+	{
+		width:90%;
+		height:auto;
+		text-decoration:none;
+		list-style:none;
+		padding:0px;
+		margin:0px;
+	}
+
+	
+	
+.login
+	{
+		height:60px;
+		width:150px;
+		margin-top:25px;
+		margin-bottom:25px;
+		text-align:center;
+		
+	}
+#Login li {
+	width:100%;
+	
+}
+#Login li label {
+	padding-right:25px;
+	line-height: 75px;
+}
+
+#email , #password , #confirmpwd, #pin
+	{
+		height:50px;
+		width:100%;
+		font-size:200%;
+		font-weight:bold;
+	}
+
+label
+	{
+		font-size:200%;
+		font-weight:bold;
+	}
+
+.Message 
+	{
+		width:50%;
+		
+	
+	}
+	
+.Message p
+	{
+		height:60px;
+		padding:0px;
+		margin:0px;
+		float:left;
+		font-size:125%;
+		font-weight:bold;
+	}
+
+.LoginError, .LoginError p
+	{
+		width:100%;
+		text-align:center;
+		padding:0px;
+		margin:0px;
+		font-size:125%;
+		font-weight:bold;
+	}
+	
+@media(max-width:680px)
+	{
+	#Login
+	{
+		width:90%;
+		left:20px;
+		right:20px;
+		margin:0px;
+		padding:10px; 
+		border:none;
+		box-shadow:none;
+	}
+	#Login li 
+	label{
+	
+		font-size:70%;
+	}
+	#password , #email {
+		height:25px;
+		font-size:100%;
+	}
+	}

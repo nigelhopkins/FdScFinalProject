@@ -1,0 +1,40 @@
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.exe.config
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmLogon.resources
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.MDIParent1.resources
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.Resources.resources
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.vbproj.GenerateResource.Cache
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.exe
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.pdb
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.xml
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.exe
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.xml
+C:\Users\Nigel\AppData\Local\Temporary Projects\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.pdb
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.exe.config
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.exe
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.xml
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.pdb
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmLogon.resources
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.MDIParent1.resources
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.Resources.resources
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.vbproj.GenerateResource.Cache
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.exe
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.pdb
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.xml
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmMainMenu.resources
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmAccountManager.resources
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmWebsiteManager.resources
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmStockManager.resources
+C:\Users\Nigel\Desktop\WebsiteDevelopment\BackEnd\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmNewAccountManager.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\bin\Debug\WebsiteDevelopment.exe.config
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.exe
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.xml
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.pdb
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmAccountManager.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmNewAccountManager.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmWebsiteManager.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmStockManager.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmLogon.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.frmMainMenu.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.MDIParent1.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.Resources.resources
+C:\Users\Nigel\Dropbox\College Work\Year 2\Final Project\WebsiteDevelopment\WebsiteDevelopment\BackEnd Software\WebsiteDevelopment\WebsiteDevelopment\obj\Debug\WebsiteDevelopment.vbproj.GenerateResource.Cache

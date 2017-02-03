@@ -1,0 +1,73 @@
+<?php
+include_once 'sqlConnection/db_connect.php';
+include_once 'sqlConnection/functions.php'; 
+?>
+<!DOCTYPE html>	
+<html>
+	<head>
+		<title>Navigation</title>
+		<link rel="stylesheet" type="text/css" href="CSS/navigation.css" >
+		<link rel="stylesheet" type="text/css" href="CSS/component.css" >
+		<script src="../js/modernizr.custom.js"></script>
+		<script language="javascript" type="text/javascript">
+			var eventFired = 0;
+
+				if ($(window).width() < 1028) {
+					$('#NavUl').css('display','none');
+				}
+				else {
+					$('#NavUl').css('display','block');
+					eventFired = 1;
+				}
+
+				$(window).on('resize', function() {
+				if ($(window).width() < 1028) {
+					$('#NavUl').css('display','none');
+				} else {
+					$('#NavUl').css('display','block');
+				}
+				});
+		</script>
+	</head>
+	<body>
+		<div id="Nav">
+			<button type="button" name="Menu" id="Menu" value="Menu">
+				<span>Menu</span>
+				<span class="MenuIcon"> &nbsp &nbsp </span>
+				<script>
+					$('#Menu').click(function(){
+						if ( $('#NavUl').css('display') == 'none' )
+							$('#NavUl').css('display','block');
+						else
+							$('#NavUl').css('display','none');
+							});
+				</script>
+			</button>
+			<div id="NavUl">
+				<ul class="NavUl">
+				<li><a href="index.php">Home</a></li>
+				<li><a href="Shop.php?p=Cart">Shop</a>
+				<li><a href="Portfolio.php">Portfolio</a></li>
+				<li><a href="Contact.php">Contact</a></li>
+				<li>
+				<?php if (login_check($mysqli) == true) : ?>
+						<button type="button" name="Logon" id="logon" onclick="window.location.href='Login.php'">
+						<span>Members Area</span>
+						</button>
+					<?php else : ?>
+						<button type="button" name="Logon" id="logon" onclick="window.location.href='Login.php'">
+						<span>Logon</span>
+						</button>
+					<?php endif; ?>
+				</li>
+				<li>
+					<button type="button" name="ShoppingCart" id="ShoppingCart" onclick="window.location.href='Shop.php?p=ViewCart'">
+						<span>Shopping Cart</span>
+						<span class="CartIcon"> &nbsp &nbsp </span>
+					</button>
+				</li>
+			</ul>
+			</div>
+		</div>
+	</body>
+</html>

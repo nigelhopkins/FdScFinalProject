@@ -1,0 +1,194 @@
+#NavUl
+{
+	background:rgba(59,60,54,1);
+	border-style:1px groove #3b3c36;
+	box-shadow:inset 0 0 3px 1px #000;
+	box-shadow:0 0 10px 5px #3b3c36;
+	display:block;
+	font-size:1em;
+	line-height:1em;
+	overflow:hidden;
+	width:100%;
+}
+
+#Nav
+{
+	background:rgba(59,60,54,1);
+	border-style:1px groove #3b3c36;
+	box-shadow:inset 0 0 3px 1px #000;
+	box-shadow:0 0 10px 5px #3b3c36;
+	font-size:1em;
+	line-height:1em;
+	overflow:hidden;
+	width:100%;
+}
+
+#Menu
+{
+	background:none;
+	border:none;
+	display:none;
+	height:3.125em;
+	width:100%;
+}
+
+.MenuIcon
+{
+	background:url("../img/menuicon.png") center center no-repeat;
+	background-size:cover;
+	width:50px;
+}
+
+.NavUl
+{
+	height:50px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	width:90%;
+}
+
+.NavUl li
+{
+	display:inline-block;
+	line-height:50px;
+	text-align:center;
+	width:16.0666666666666667%;
+}
+
+.NavUl li button
+{
+	color:#778ba5;
+	cursor:pointer;
+	margin:0px;
+	padding:0px;	
+}
+
+.NavUl li a
+{
+	color:#778ba5;
+	list-style:none;
+	padding:6.5% 20%;
+	text-decoration:none;
+}
+
+ul .SubNavUl
+{
+	background:rgba(59,60,54,1);
+	border:2px groove #3b3c36;
+	margin:0px;
+	padding: 10px 0px;
+	width:14.3666666666666667%;
+}
+
+.SubNavUl
+{
+	border-radius:5px;
+	box-shadow:inset 0 0 10px 5px #000;
+	box-shadow:0 0 10px 5px #3b3c36;
+	border:2px groove #000;
+	display:none;
+	height:100px;
+	position:fixed;
+	margin:0px;
+	padding:0xp;
+	top:50px;
+	width: 14.3666666666666667%;
+	z-index:-199;
+}
+
+.SubNavUl li
+{
+	border-bottom:2px groove #778ba5;
+	line-height:50px;
+	width:100%;
+}
+
+.SubNavUl li:last-child
+{
+	border-bottom:0px groove #778ba5;
+}
+
+#Nav li:hover .SubNavUl
+{
+	display:block;
+}
+
+#logon , #ShoppingCart
+{
+	background:rgba(119,139,165,0.0);
+	border:none;
+	height:50px;
+	width:150px;	
+}
+
+.CartIcon 
+{	
+	background:url("../img/CartIcon.png") center center no-repeat;
+	background-size:cover;
+}	
+
+.NavUl li:hover , .SubNavUl li:hover
+{
+	background:rgba(119,139,165, 0.5);
+}
+
+@media(max-width:1028px)
+	{
+		#Menu
+		{
+			display:block;	
+			height:50px;
+		}
+		
+		#NavUl
+		{
+			display:none;
+		}
+		
+		.NavUl
+		{
+			height:auto;
+		}
+		
+		.NavUl li a
+		{
+			padding:0px;
+			margin:0px;
+		}
+		
+		.NavUl li
+		{
+			width:100%;
+			line-height:30px;
+		}
+		
+		#logon{
+			height:30px;
+		}
+		
+		#ShoppingCart{
+			height:30px;
+		}
+		
+		#Nav li:hover .SubNavUl
+		{
+			display:block;			
+		}
+		
+		ul .SubNavUl
+		{
+			width:100%;
+			padding:0px;
+			border:0px;
+		}
+		.SubNavUl
+		{
+			position:relative;
+			z-index:199;
+			line-height:50px;
+			top:0px;
+		}
+	}

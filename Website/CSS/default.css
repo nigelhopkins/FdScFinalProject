@@ -1,0 +1,472 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(http://fonts.googleapis.com/css?family=Comfortaa:400,700);
+html,
+body 
+{
+	font-size: 100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	font-family: 'Indie Flower', cursive;
+}	
+
+body 
+{
+	background:rgba(0,122,165,0.5);
+	color: #3b3c36;
+	cursor: auto; 
+	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+	height:100%;
+	margin: 0px;
+	padding: 0px;
+	width:100%;
+	font-family: 'Indie Flower', cursive;
+}
+
+a:hover 
+{
+	cursor: pointer; 
+}
+
+
+.clear
+{
+	clear:both;
+}
+
+/* set up of containers for the content */
+
+#top-bar
+{
+	background:rgba(59,60,54,1);
+	border:0px groove #3b3c36;
+	box-shadow:inset 0 0 3px 1px #000;
+	height:50px;
+	margin:0;
+	padding:0;
+	position:fixed;
+	top:0px;
+	width:100%;	
+	z-index:199;
+	
+}
+  
+#container
+{
+	background:#fff;
+	box-shadow:0 0 35px 15px #000;
+	min-height:100%;
+	margin-bottom:50px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	width:60.5625em;
+	z-index:1;
+	
+}
+
+#content
+{
+	margin:0;
+	padding-top:50px;
+	padding-bottom:25px;
+	padding-left:0;
+	padding-right:0;
+	z-index:1;
+}
+
+#footer
+{
+	background:rgba(59,60,54,1);
+	border-style:1px groove #3b3c36;
+	bottom:-1px;
+	box-shadow:inset 0 0 3px 1px #000;
+	color:#778ba5;
+	height:50px;
+	margin:0;
+	padding:0;
+	position:fixed;
+	text-align:center;
+	width:100%;	
+	z-index:99;
+	font-size:100%;
+	
+}
+
+/* Construction of content within website */
+
+#Title
+	{
+		width:100%;
+		height:auto;
+		position:relative;
+		margin-left:0%;
+		margin-bottom:10px;
+		margin-top:0px;
+		border:0px solid #000;
+		border-bottom:none;
+		z-index:99;
+		background:rgba(59,60,54,1);
+		box-shadow: 0 0 25px 10px #000;
+	}
+
+#Title h1
+	{
+		padding:0px;
+		margin:0px;
+		font-size:400%;
+		line-height:200px;
+		text-align:center;
+		padding-top:4%;
+		color:#778ba5;
+		z-index:199;
+	}
+
+#SocialMediaBar
+	{
+		width:100%;
+		height:50px;
+		background:rgba(59,60,54,1);
+		border:0px groove #3b3c36;
+		box-shadow:inset 0 0 3px 1px #000;
+		margin-bottom:0px;
+		z-index:199;
+		bottom:0%;
+		position:absolute;		
+	}
+	
+#SocialMedia ul li img{
+
+	border:0px;
+}
+
+#SocialMediaBar ul
+
+	{
+		padding:0px;
+		margin:0px;
+		width:100%;
+		height:50px;
+		list-style:none;
+		overflow:hidden;
+	}
+
+#SocialMediaBar > ul > li:nth-child(1) > form > label
+
+	{
+		font-size:75%;
+	}
+	
+#SocialMediaBar ul li 
+	{
+		float:right;
+		color:#778ba5;
+		line-height:50px;
+		padding-left:1%;
+		overflow:hidden;
+	}
+	
+
+.facebook, .LinkedIn, .YouTube
+{
+	width:50px;
+	height:auto;
+	padding:0px;
+	margin:0px;
+	float:right;
+	border:0px;
+}
+
+.facebook a, .LinkedIn a, .YouTube a
+{
+	padding:0px;
+	margin:0px;
+	border:0px;
+}
+
+	
+form
+{
+	width:300px;
+}
+
+form input
+{
+	width:50px;
+}
+
+#Uploader
+	{
+		border:1px groove #000;
+		width:60%;
+		margin-left:auto;
+		margin-right:auto;
+		min-height:200px;
+		text-align:center;
+		padding:15px;
+	}
+	
+@media(max-width:1028px)
+	{
+		#container
+		{
+			width:100%;
+			overflow:hidden;
+		}
+		
+	}
+
+	
+/* Large text panel container */
+
+.large-panel
+{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0;
+	margin-bottom:0;
+	width:95%;
+}
+
+/* styling for the content of the large text panels */
+
+.large-panel hr
+{
+	margin-bottom:25px;
+	margin-top:25px;	
+	clear:both;
+}
+
+.large-panel h3
+{
+	float:left;
+	height:100%;
+	margin:0;
+	padding:0;
+	text-align:center;
+	width:20%;	
+	font-size:150%;
+}
+
+.large-panel span
+{
+	float:left;
+	padding-right:5px;
+	text-align:justify;
+	width:79%;
+	font-family: 'Comfortaa', cursive;
+	font-size:100%;
+}
+
+#cookie-law {
+	
+	height:100px;
+	position:fixed;
+	width:100%;
+	background:rgba(0,122,165,0.7);
+	text-align:justify;
+	color:#fff;
+	height:auto;
+	z-index:399;
+	border:0px groove #3b3c36;
+	box-shadow:inset 0 0 3px 1px #000
+}
+
+#cookie-law p {
+	text-align:center;
+}
+
+#message a , #message a:link, #message a:visited, #message a:active, #message a:hover {
+		color:#fff;
+		text-decoration:none;
+	}
+
+
+@media(max-width:600px)
+{
+	#Title
+	{
+		min-height:150px;
+	}
+		
+	#Title h1 
+	{
+		font-size:200%;
+		line-height:100px;
+		padding-top:0px;
+		margin-top:0px;
+		margin-bottom:25px;
+	}
+	
+	.large-panel h3
+	{
+		width:100%;
+		margin-bottom:15px;
+	}
+	
+	.large-panel span
+	{
+		width:90%;
+		float:none;
+		margin:0;
+		padding:0;
+		text-align:justify;
+		font-size:100%;
+		
+	}
+	#footer p
+	{
+		font-size:75%;
+	}
+}
+
+/* styling for the smaller panels  */
+
+.panel-container
+{
+	width:100%;
+	padding:0%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.panel-container ul
+	{
+		width:90%;
+		height:auto;
+		padding:10px 0;
+		margin:2% auto;
+		list-style:none;
+	}	
+	
+.panel-container ul li
+	{
+		width:31.333023735810112%;
+		height:auto;
+		margin:0% 1%;
+		display:inline-block;
+		float:left;
+		box-shadow:0 0 10px 5px #000;
+		background:rgba(0,122,165,0.5);
+		border-radius:10px;
+	}
+
+.panel-container ul ul
+	{
+		padding:0px;
+		margin:0px auto;
+		width:90%;
+		height:auto;
+		
+	}
+
+.panel-container ul ul li:nth-child(2)
+	{
+		margin:0;
+		height:auto;
+		padding-bottom:10px;
+	}
+	
+.panel-container ul ul li:nth-child(2) span
+	{
+		width:100%;
+		height:auto;
+		padding:0 0;
+		margin:0px;
+		font-family: 'Comfortaa', cursive;
+		font-size:50%;
+	}
+	
+.panel-container ul ul li
+	{
+		width:100%;
+		box-shadow:none;
+		line-height:50px;
+		text-align:center;
+		border-bottom:1px solid #000;
+		padding:0px;
+		margin:0;
+		background:none;
+		border-radius:0px;
+		font-size:150%;
+	}
+
+.panel-container > ul > li > ul > li:nth-child(2)
+	{
+		line-height:1em;
+		height:115px;
+		text-align:justify;
+	}
+
+.panel-container > ul > li > ul > li:last-child
+	{
+		border-bottom:0px solid #000;
+	}
+
+@media(max-width:1028px)
+{
+	.panel-container ul li 
+	{
+		width:45%;
+	}
+	
+	.panel-container > ul > li:nth-child(1)
+	{
+		margin-right:4%;
+		margin-bottom:25px;
+	}
+	
+	.panel-container > ul > li:nth-child(2)
+	{
+		margin-left:4%;
+	}
+		
+	.panel-container > ul > li:nth-child(3)
+	{
+		min-width:100%;
+		margin:0;	
+		margin-left:auto;
+		margin-right:auto;
+	}
+}
+	
+@media(max-width:600px)
+{
+	.panel-container
+	{
+		padding-left:2px;
+	}
+	
+	.panel-container ul li
+	{
+		width:100%;
+		margin:0% 0;
+	}
+	
+		.panel-container > ul > li:nth-child(1), .panel-container > ul > li:nth-child(2)
+	{
+	
+		margin-left:0%;
+		margin-right:0%;
+		margin-bottom:4%;
+		margin-top:0%;
+	}
+}
+
+.facebook, .LinkedIn, .YouTube
+{
+	width:50px;
+	height:auto;
+	padding:0px;
+	margin:0px;
+	float:right;
+	border:0px;
+}
+
+.facebook a, .LinkedIn a, .YouTube a
+{
+	padding:0px;
+	margin:0px;
+	border:0px;
+}
+
